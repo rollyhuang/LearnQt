@@ -1,0 +1,1 @@
+CMake -G "Visual Studio 16" -A x64 -H. -Bbuild
